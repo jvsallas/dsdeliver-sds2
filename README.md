@@ -1,3 +1,9 @@
 # DevSuperior Deliver - dsdeliver-sds2
 
-Link no Heroku - https://jvsallas-sds2.herokuapp.com/ 
+App - https://jvsallas-sds2.herokuapp.com/ 
+
+[GET] /products
+[GET] /orders
+
+[POST] /orders/{id}
+[POST] /products/{id}
